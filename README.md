@@ -1,4 +1,4 @@
-A Simple and minimal gulpfile for Wordpress theme development
+A Simple and minimal gulpfile for Wordpress theme development.
 
 ## Required development dependencies
 
